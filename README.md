@@ -1,7 +1,5 @@
 ### Mostly used
 [![Panamacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panamacheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 📊 GitHub Stats:
 ---
