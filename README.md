@@ -1,5 +1,8 @@
-### Mostly used
-[![Panamacheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 GitHub Profile Trophy:
+---
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=panamacheng&column=8&theme=radical&no-frame=true&no-bg=true"/>
+</a>
 
 ### 📊 GitHub Stats:
 ---
