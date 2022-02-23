@@ -16,3 +16,6 @@
 ![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 ![Panamacheng's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 
+### Watch my contribution graph get eaten by the snake🐍
+![snake svg](https://github.com/panamacheng/panamacheng/blob/output/github-contribution-grid-snake.svg)
+
