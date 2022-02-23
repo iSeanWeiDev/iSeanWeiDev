@@ -17,5 +17,6 @@
 ![Panamacheng's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 
 ### Watch my contribution graph get eaten by the snake🐍
-![snake svg](https://github.com/panamacheng/panamacheng/blob/output/github-contribution-grid-snake.svg)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=panamacheng)](https://solved.ac/panamacheng)
 
