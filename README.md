@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Panamacheng
+### Hi there 👋 I'm Sean Wei
 - 🔭 I’m currently working on **Full Stack Engineering**
 - 🌱 I’m currently learning mobile programming in Swift, ObjectC
 - 💬 Ask me about how to build the high-performance web service.
