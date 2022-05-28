@@ -4,7 +4,7 @@
 - 💬 Ask me about **how to build the high-performance web service**.
 - 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/sean-w-364b36211/)
 - 😄 Pronouns: He/Him
-- 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
+- 🐱 Proud cat dad of Sploof, born 19/04/2022 :)
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
