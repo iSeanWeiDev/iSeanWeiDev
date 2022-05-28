@@ -1,11 +1,10 @@
-### Hi there 👋 I'm Sean Wei <a href="https://cryptojobslist.com/talent/profile/crypto-professional-remote-4fvr4tztks4" target="_blank" style="display: inline-block; border: 0.09em solid #453dff; border-radius: 3px; color: #453dff; padding: 0.3em 0.2em 0.4em; text-align: center; width: 7.2em;" rel="noopener">Hire me on Crypto Jobs List</a>
+### Hi there 👋 I'm Sean Wei 
 - 🔭 I’m currently working at the [**Devote Efforts**](https://devoteefforts.biz)
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
 - 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/sean-w-364b36211/)
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
-
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -18,3 +17,4 @@
 ![Panamacheng's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 
 
+<div><a href="https://cryptojobslist.com/talent/profile/crypto-professional-remote-4fvr4tztks4" target="_blank" style="display: inline-block; border: 0.09em solid #453dff; border-radius: 3px; color: #453dff; padding: 0.3em 0.2em 0.4em; text-align: center; width: 7.2em;" rel="noopener">Hire me on Crypto Jobs List</a></div>
