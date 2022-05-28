@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/04/2022 :)
 
+---
+
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=panamacheng&theme=onedark&column=8no-frame=true"/>
@@ -18,6 +20,6 @@
 ![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 ![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=panamacheng&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panamacheng&layout=compact" />
+  <img height="170" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=panamacheng&count_private=true&include_all_commits=true" />
+  <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panamacheng&layout=compact" />
 </div>
