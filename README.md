@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
 - 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/sean-w-364b36211/)
-- 📫 <a href="https://cryptojobslist.com/talent/profile/crypto-professional-remote-4fvr4tztks4" title="Hire me on Crypto Jobs List" rel="noopener"><img src="https://cryptojobslist.com/images/logo-circle-color.svg" width="20px" height="20px" alt="Hire me on Crypto Jobs List"/></a> Look at me for the blockchain development
+- <a href="https://cryptojobslist.com/talent/profile/crypto-professional-remote-4fvr4tztks4" title="Hire me on Crypto Jobs List" rel="noopener"><img src="https://cryptojobslist.com/images/logo-circle-color.svg" width="20px" height="20px" style="margin-top: 5px;" alt="Hire me on Crypto Jobs List"/></a> Look at me for the blockchain development
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/03/2021 :)
 
