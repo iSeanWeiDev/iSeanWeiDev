@@ -2,7 +2,7 @@
 - 🔭 Working at the [**Devote Efforts**](https://devoteefforts.biz) as Chief Technology Officer  
 - 🌱 Accomplished Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
-- 📫 How to reach me: [on my linkedin](https://www.linkedin.com/in/sean-w-364b36211/)
+- 📫 Reach me out [via my linkedin](https://www.linkedin.com/in/sean-w-364b36211/)
 - 😄 Pronouns: He/Him
 - 🐱 Proud cat dad of Sploof, born 19/04/2022 :)
 
