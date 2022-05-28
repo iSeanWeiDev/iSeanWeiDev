@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Sean Wei 
+### Hi there 👋 I'm Sean Wei <a href="https://cryptojobslist.com/talent/profile/crypto-professional-remote-4fvr4tztks4" title="Hire me on Crypto Jobs List" rel="noopener"><img src="https://cryptojobslist.com/images/logo-circle-color.svg" width="32px" height="32px" alt="Hire me on Crypto Jobs List"/></a>
+
 - 🔭 I’m currently working at the [**Devote Efforts**](https://devoteefforts.biz)
 - 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
 - 💬 Ask me about **how to build the high-performance web service**.
@@ -15,6 +16,3 @@
 ![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 ![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
 ![Panamacheng's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
-
-
-<div><a href="https://cryptojobslist.com/talent/profile/crypto-professional-remote-4fvr4tztks4" target="_blank" style="display: inline-block; border: 0.09em solid #453dff; border-radius: 3px; color: #453dff; padding: 0.3em 0.2em 0.4em; text-align: center; width: 7.2em;" rel="noopener">Hire me on Crypto Jobs List</a></div>
