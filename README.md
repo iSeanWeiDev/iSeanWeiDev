@@ -10,6 +10,10 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=panamacheng&theme=onedark&column=8no-frame=true"/>
 </a>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=panamacheng&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panamacheng&layout=compact" />
+</div>
 
 ### 📊 GitHub Stats:
 ![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=panamacheng&show_icons=true&count_private=true&theme=solarized_dark)
