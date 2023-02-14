@@ -8,7 +8,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Panamacheng's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
-![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
-![Panamacheng's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
+![Sean Wei's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
+![Sean Wei's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
+![Sean Wei's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
 
