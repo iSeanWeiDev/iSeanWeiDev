@@ -12,3 +12,6 @@
 ![Sean Wei's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
 ![Sean Wei's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iSeanWeiDev&show_icons=true&count_private=true&theme=solarized_dark)
 
+## 🔥 Github Streaks:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iSeanWeiDev&theme=dark" width="48%" >
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSeanWeiDev&hide=javascript,html&theme=tokyonight)](https://github.com/anurghazra/github-readme-stats)-->
